@@ -1,2 +1,2 @@
 # chess-online
-his is the application for an online chess ggame that has stable game initiation.
+This is the application for an online chess game that has a stable multiplayer experience.
