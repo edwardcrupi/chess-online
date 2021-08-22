@@ -1,0 +1,30 @@
+{
+  "name": "chess-online",
+  "version": "1.0.0",
+  "description": "This is the application for an online chess game that has a stable multiplayer experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohwerd/chess-online.git"
+  },
+  "keywords": [
+    "chess",
+    "online",
+    "multiplayer",
+    "chess.com",
+    "en-passant",
+    "check",
+    "mate",
+    "checkmate",
+    "win"
+  ],
+  "author": "Edward Crupi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohwerd/chess-online/issues"
+  },
+  "homepage": "https://github.com/ohwerd/chess-online#readme"
+}
