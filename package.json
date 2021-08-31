@@ -1,5 +1,6 @@
 {
   "name": "react-chess",
+  "description": "This is the application for an online chess game that has a stable multiplayer experience",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +40,26 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohwerd/chess-online.git"
+  },
+  "keywords": [
+    "chess",
+    "online",
+    "multiplayer",
+    "chess.com",
+    "en-passant",
+    "check",
+    "mate",
+    "checkmate",
+    "win"
+  ],
+  "author": "Edward Crupi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohwerd/chess-online/issues"
+  },
+  "homepage": "https://github.com/ohwerd/chess-online#readme",
 }
