@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import './App.css'
 import { gameSubject, initGame, resetGame } from './Game'
 import Board from './Board'
+import ChatApp from './ChatApp'
 
 function App() {
   const [board, setBoard] = useState([])
@@ -32,6 +33,7 @@ function App() {
         <Board board={board} turn={turn} />
       </div>
       {result && <p className="vertical-text">{result}</p>}
+      <ChatApp/>
     </div>
   )
 }
