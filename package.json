@@ -29,18 +29,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ohwerd/chess-online.git"
@@ -61,5 +49,5 @@
   "bugs": {
     "url": "https://github.com/ohwerd/chess-online/issues"
   },
-  "homepage": "https://github.com/ohwerd/chess-online#readme",
+  "homepage": "https://github.com/ohwerd/chess-online#readme"
 }
